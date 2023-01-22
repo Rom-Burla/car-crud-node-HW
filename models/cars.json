@@ -1,0 +1,26 @@
+{
+    "cars":[
+        {
+            "manufacturer": "Mercedes",
+"model": "Maybach",
+"year": 2023,
+"color": "Black",
+"price": 1000012.15,
+"timeFromZeroToHundred": 13,
+"maxSpeed": 120,
+"description": "Maybach is a German luxury car brand that exists today as a part of Mercedes-Benz. The original company was founded in 1909 by Wilhelm Maybach and his son Karl Maybach, originally as a subsidiary of Luftschiffbau Zeppelin GmbH, and it was known as Luftfahrzeug-Motorenbau GmbH until 1999",
+"inventory": "5"
+        },
+        {
+            "manufacturer": "BMW",
+            "model": "X6",
+            "year": 2020,
+            "color": "White",
+            "price": 500000,
+            "timeFromZeroToHundred": 30,
+            "maxSpeed": 150,
+            "description": "The BMW X6 is a mid-size luxury crossover SUV by German automaker BMW. The BMW X6 is the originator of the sports activity coupé (SAC), referencing its sloping rear roof design. It combines the attributes of an SUV (high ground clearance, all-wheel drive and all-weather ability, large wheels and tires) with the stance of a coupé (styling featuring a sloping roof). It is built in BMW's North American plant in Greer, South Carolina alongside the BMW X5, whose platform it shares. Prior to the release of the X7, the X6 was considered a flagship SUV for BMW.",
+            "inventory": "2"
+        }
+    ]
+}

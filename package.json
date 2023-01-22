@@ -1,0 +1,17 @@
+{
+  "name": "car-crud-tomer",
+  "version": "1.0.0",
+  "description": "model:\r manufacturer,\r model,\r year,\r color,\r price,\r timeFromZeroToHundred,\r maxSpeed,\r description,\r inventory",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4"
+  }
+}
